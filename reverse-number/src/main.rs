@@ -1,0 +1,13 @@
+use std::io;
+
+fn main()
+{
+    println!("Type a positive whole number");
+
+    let mut number_to_reverse = String::new();
+    io::stdin().read_line(&mut number_to_reverse).expect("Failed to read line");
+
+    let number_reversed = number_to_reverse.trim().chars().rev().collect::<String>();
+    println!("The number {} reversed is {}", number_to_reverse, number_reversed);
+}
+
