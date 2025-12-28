@@ -1,0 +1,1 @@
+C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\is-string-palindrome\target\debug\is-string-palindrome.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\is-string-palindrome\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\number-of-consonants\target\debug\number-of-consonants.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\number-of-consonants\src\main.rs

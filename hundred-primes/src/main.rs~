@@ -1,0 +1,30 @@
+use std::io;
+
+fn main()
+{
+    let mut number = 0;
+
+    for i in 1..100
+    {
+        number +=1 ;
+    if number % 2 != 0 && number % 3 != 0 && number % 5 != 0 && number % 7 != 0
+    {
+        if number == 1
+        {
+            println!("1 is not a prime number");
+        }
+        else
+        {
+            println!("{}is a prime number!", number);
+        }
+    }
+    else if number == 2 || number == 3 || number == 5 || number == 7
+        {
+            println!("{} is a prime number!", number);
+        }
+    else
+    {
+        println!("{} is not a prime number", number);
+    }
+}
+}

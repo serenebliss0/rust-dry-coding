@@ -1,0 +1,1 @@
+C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\number-of-vowels\target\debug\number-of-vowels.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\number-of-vowels\src\main.rs

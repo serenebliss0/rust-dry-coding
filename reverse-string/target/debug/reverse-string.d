@@ -1,0 +1,1 @@
+C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\reverse-string\target\debug\reverse-string.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\reverse-string\src\main.rs

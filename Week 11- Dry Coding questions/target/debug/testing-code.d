@@ -1,0 +1,1 @@
+C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\testing-code\target\debug\testing-code.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\testing-code\src\main.rs

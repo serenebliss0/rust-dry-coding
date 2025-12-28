@@ -1,0 +1,23 @@
+use std::io;
+
+fn main()
+{
+    println!("Enter a number!");
+
+    let mut number = String::new();
+    io::stdin().read_line(&mut number).expect("Failed to read line");
+    let number = number.trim();
+
+    let number_as_string = number.to_string();
+
+    let number_reversed = number_as_string.chars().rev().collect::<String>();
+
+    if number_as_string == number_reversed
+    {
+        println!("This number is a palindrome");
+    }
+    else
+    {
+        println!("This number isn't a palindrome!");
+    }
+

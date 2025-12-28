@@ -1,0 +1,1 @@
+C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\string-to-uppercase\target\debug\string-to-uppercase.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\string-to-uppercase\src\main.rs
