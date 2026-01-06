@@ -17,13 +17,14 @@ pub fn replace_spaces(word:String) -> String
 }
 
 //alternatively, this will work on spaces, tabs, and even newlines
-pub fn replace_all_whitespace(word:String) -> String
+/*pub fn replace_all_whitespace(word:String) -> String
 {
     let changed_string = word
     .chars()
     .map(|c| if c.is_whitespace() { '_' } else { c })
     .collect::<String>();
 }
+*/
 
 fn main()
 {
