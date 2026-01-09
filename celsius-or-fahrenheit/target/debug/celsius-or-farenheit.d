@@ -1,1 +1,1 @@
-C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\celsius-or-fahrenheit\target\debug\celsius-or-farenheit.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\celsius-or-fahrenheit\src\main.rs
+/Users/semire/Desktop/rust-dry-coding/celsius-or-fahrenheit/target/debug/celsius-or-farenheit: /Users/semire/Desktop/rust-dry-coding/celsius-or-fahrenheit/src/main.rs

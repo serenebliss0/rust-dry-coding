@@ -1,4 +1,4 @@
-pub fn do_binary_sort(array: Vec<i64>, value:i64) -> i64
+pub fn do_binary_search(array: Vec<i64>, value:i64) -> i64
 {
     let mut low:i64 = 0;
     let mut high:i64 = (array.len() -1) as i64;

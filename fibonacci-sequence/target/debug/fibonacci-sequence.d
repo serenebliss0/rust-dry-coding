@@ -1,1 +1,1 @@
-C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\fibonacci-sequence\target\debug\fibonacci-sequence.exe: C:\Users\Semire\Downloads\My\ Programming\ Journey\ 2\rust_dry_coding\fibonacci-sequence\src\main.rs
+/Users/semire/Desktop/rust-dry-coding/fibonacci-sequence/target/debug/fibonacci-sequence: /Users/semire/Desktop/rust-dry-coding/fibonacci-sequence/src/main.rs
